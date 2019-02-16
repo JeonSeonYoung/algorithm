@@ -16,3 +16,4 @@
 [프로그래머스 문제풀이 스택큐 - 주식가격](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/stackque_3.html) <br/>
 [병합정렬 수정](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/MergeSort.html) <br/>
 **2019-02-09** [BFS 구현](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/BFS.html) <br/> 
+**2019-02-16** [DFS 구현](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/DFS.html) <br/> 
