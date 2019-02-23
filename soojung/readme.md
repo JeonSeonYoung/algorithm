@@ -10,3 +10,10 @@
 **2018-08-16** <br/> 
 **2018-08-22** <br/>
 **2018-10-06** [퀵 정렬 구현](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/QuickSort.html) <br/>
+**2018-10-13** [삽입 정렬 구현](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/InsertSort.html) <br/>
+**2018-10-27** [프로그래머스 문제풀이 스택큐 - 탑](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/stackque_1.js) <br/>
+[프로그래머스 문제풀이 스택큐 - 기능개발](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/stackque_2.html) <br/>
+[프로그래머스 문제풀이 스택큐 - 주식가격](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/stackque_3.html) <br/>
+[병합정렬 수정](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/MergeSort.html) <br/>
+**2019-02-09** [BFS 구현](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/BFS.html) <br/> 
+**2019-02-16** [DFS 구현](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/DFS.html) <br/> 
