@@ -17,3 +17,4 @@
 [병합정렬 수정](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/MergeSort.html) <br/>
 **2019-02-09** [BFS 구현](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/BFS.html) <br/> 
 **2019-02-16** [DFS 구현](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/DFS.html) <br/> 
+**2019-03-16** [다익스트라 구현](https://github.com/JeonSeonYoung/algorithm/blob/master/soojung/javascript/dijkstra_1.html) <br/>
