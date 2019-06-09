@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DOIL",
+    "\\DOIL\\SinglyLinkedListStack"
   ],
-  "SelectedNode": "\\kyumin",
+  "SelectedNode": "\\DOIL\\SinglyLinkedListStack\\QuickSort",
   "PreviewInSolutionExplorer": false
 }
